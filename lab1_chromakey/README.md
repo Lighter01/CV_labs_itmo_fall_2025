@@ -32,7 +32,7 @@
 ## Описание разработанной системы
 
 ### Архитектура проекта
-
+```
 .
 ├── datasets/
 │ ├── images/ # foreground images
@@ -40,6 +40,7 @@
 ├── results/ # generated chromakeyed images + graphs
 ├── chromakey.ipynb # core implementations
 └── README.md # report
+```
 
 ### Реализованные алгоритмы
 
